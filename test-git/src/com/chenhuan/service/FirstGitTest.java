@@ -5,5 +5,7 @@ public class FirstGitTest {
 		System.out.println("test commit for git");
 		
 		System.out.println("woshisui");
+		
+		System.out.println("shenmeqk");
 	}
 }
