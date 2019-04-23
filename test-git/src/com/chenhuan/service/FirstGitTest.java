@@ -8,5 +8,7 @@ public class FirstGitTest {
 		System.out.println("woshisui1");
 		System.out.println("woshisui2");
 		
+		System.out.println("branch 1");
+		
 	}
 }
