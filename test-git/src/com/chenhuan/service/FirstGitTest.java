@@ -6,6 +6,5 @@ public class FirstGitTest {
 		
 		System.out.println("woshisui");
 		
-		System.out.println("shenmeqk");
 	}
 }
