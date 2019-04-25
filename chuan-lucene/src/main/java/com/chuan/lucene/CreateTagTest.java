@@ -2,6 +2,7 @@ package com.chuan.lucene;
 
 public class CreateTagTest {
 	public static void main(String[] args) {
-		System.out.println("这个create tag 完成后建立的一个分支添加的文件");
+		System.out.println("锟斤拷锟絚reate tag 锟斤拷珊锟斤拷锟斤拷锟揭伙拷锟斤拷锟街э拷锟接碉拷锟侥硷拷");
+		System.out.println("涓婇潰閭ｅ氨涔辩爜浜嗗晩");
 	}
 }
